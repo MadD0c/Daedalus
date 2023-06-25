@@ -1,0 +1,9 @@
+*.bkp
+printer-*.cfg
+/.theme
+/macros
+variables.cfg
+timelapse.cfg
+octoeverywhere*.*
+/backup
+moonraker.conf.bak
