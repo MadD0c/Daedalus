@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 63.999997 64"
+   id="svg4160"
+   version="1.1"
+   sodipodi:docname="klipper.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="35.52929"
+     inkscape:cx="30.158216"
+     inkscape:cy="7.4023432"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid832" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4162">
+    <rect
+       x="3.5868116"
+       y="48.165756"
+       width="57.047384"
+       height="12.639241"
+       id="rect10152" />
+  </defs>
+  <metadata
+     id="metadata4165">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer2"
+     style="display:inline;stroke:none;image-rendering:auto"
+     transform="translate(-3.5328446,2.2636422)">
+    <g
+       id="g10239"
+       transform="translate(0,1.7661836)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.3934px;font-family:'JetBrainsMonoNL Nerd Font Mono';-inkscape-font-specification:'JetBrainsMonoNL Nerd Font Mono, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:exclusion;fill:#fffdfe;fill-opacity:1;stroke-width:0.949451"
+         x="8.1203089"
+         y="55.248573"
+         id="text10158"><tspan
+           sodipodi:role="line"
+           id="tspan10156"
+           x="8.1203089"
+           y="55.248573"
+           style="stroke-width:0.949451">Daedalus</tspan></text>
+    </g>
+    <g
+       id="g10096"
+       transform="matrix(0.7687563,0,0,0.7687563,8.6180066,1.8341537)"
+       style="display:inline;stroke:none;image-rendering:auto">
+      <path
+         id="rect11520"
+         style="display:inline;mix-blend-mode:exclusion;fill:#fffdfe;stroke-width:1.3008"
+         d="m 33.585308,13.204456 -17.322741,40.497705 33.908027,0.425483 9.738822,3.47815 H 10.080332 L 35.01318,0.6739614"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         d="M 59.939212,57.580749 50.156863,54.201548 33.553691,13.125622 35.000288,0.57053314 36.355777,0.53965021 M 27.239361,10.095411 27.993424,3.8298857 m 6.443731,0.5125696 2.108712,-3.1534962 M 48.665841,54.095701 35.768204,11.099053"
+         style="font-style:normal;font-weight:normal;font-size:400px;line-height:1.25;font-family:'Times New Roman';text-align:center;text-anchor:middle;display:inline;fill:#4bc3ca;fill-opacity:1;stroke:none;stroke-width:0.209922px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:auto"
+         id="path4422"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
+  </g>
+</svg>
